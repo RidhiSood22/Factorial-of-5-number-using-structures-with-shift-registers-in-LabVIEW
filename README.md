@@ -45,8 +45,10 @@ Components of a While Loop
 
 3 —Conditional Terminal—Evaluates a Boolean input value to determine whether to continue executing the While Loop. To specify whether the loop stops for a TRUE or FALSE Boolean value, configure the continuation behavior of the loop. You also can determine when the loop stops by wiring an error cluster to the conditional terminal.
 
-# Output in this repo
+# Output in this Repo
 
 <img width="286" height="149" alt="image" src="https://github.com/user-attachments/assets/57222cc5-cc6e-4e6d-9835-0b673741ef8b" />
 
-<img width="831" height="898" alt="image" src="https://github.com/user-attachments/assets/d0c5b71a-4739-4065-b08a-9420a4e58908" />
+
+
+<img width="286" height="149" alt="image" src="https://github.com/user-attachments/assets/d0c5b71a-4739-4065-b08a-9420a4e58908" />
