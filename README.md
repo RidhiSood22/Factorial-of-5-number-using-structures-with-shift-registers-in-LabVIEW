@@ -1,1 +1,1 @@
-# Factorial-of-5-number-using-FOR-loop-in-LabVIEW
+# Factorial-of-5-number-using-structures-in-LabVIEW
