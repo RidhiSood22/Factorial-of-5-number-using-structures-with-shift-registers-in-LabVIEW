@@ -40,6 +40,8 @@ Components of a While Loop
 <img width="253" height="208" alt="image" src="https://github.com/user-attachments/assets/a61be3be-985b-4f95-8ad9-f759b9b35811" />
 
 1 —Subdiagram—Contains code that the While Loop executes once per iteration.
+
 2 —Iteration Terminal (i)—Provides the current loop iteration count. The loop count always starts at zero for the first iteration. If the iteration count exceeds 2,147,483,647, or 231-1, the iteration terminal remains at 2,147,483,647 for all further iterations. If you need to keep count of more than 2,147,483,647 iterations, you can use shift registers with a greater integer range.
+
 3 —Conditional Terminal—Evaluates a Boolean input value to determine whether to continue executing the While Loop. To specify whether the loop stops for a TRUE or FALSE Boolean value, configure the continuation behavior of the loop. You also can determine when the loop stops by wiring an error cluster to the conditional terminal.
 
