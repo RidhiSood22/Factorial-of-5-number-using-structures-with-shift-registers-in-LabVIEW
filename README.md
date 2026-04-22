@@ -49,6 +49,6 @@ Components of a While Loop
 
 <img width="286" height="149" alt="image" src="https://github.com/user-attachments/assets/57222cc5-cc6e-4e6d-9835-0b673741ef8b" />
 
+------------------------------------------------------
 
-
-<img width="286" height="149" alt="image" src="https://github.com/user-attachments/assets/d0c5b71a-4739-4065-b08a-9420a4e58908" />
+<img width="286" height="286" alt="image" src="https://github.com/user-attachments/assets/d0c5b71a-4739-4065-b08a-9420a4e58908" />
